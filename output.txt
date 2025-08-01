@@ -1,0 +1,7 @@
+bbl loader
+RISC-V Uniqueness Check
+User: nandana
+Host: nandana-HP-Laptop-15s-fq5xxx
+UniqueID: 0x019f4eab75217f00
+GCC_VLEN: 5
+

@@ -1,0 +1,3 @@
+riscv64-unknown-elf-gcc -O2 -Wall -march=rv64imac -mabi=lp64 \
+  -DUSERNAME=\"$(id -un)\" -DHOSTNAME=\"$(hostname -s)\" \
+  unique_test.c -o unique_test
