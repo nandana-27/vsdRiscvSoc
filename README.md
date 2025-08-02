@@ -15,4 +15,6 @@ Setting up of ***Risc-V GCC Toolchain***, ***Spike***, ***Proxy Kernel*** and **
 
 **Program Output**  : [output](output.txt)
 
+**FULL DOCUMENTATION** : [SETUP](SETUP.md)
+
 
